@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)--><ajsv>
+    <diagram creationDate="2021-июн.-10 21:45" licenseGrade="single" licenseeName="AgileJ community member" licenseeOrganization="agilej-community" populationMethod="manual" version="1.9.2.v20190518-1152">
+        <filterScript>
+
+// no filter script yet defined for this class diagram
+// use CTRL+SPACE for completion suggestions
+
+</filterScript>
+        <class className="Data" modelMemberId="Data" project="Bryzgalova_finish_work" xLocation="1342" yLocation="580"/>
+        <class className="Xml_file" modelMemberId="Xml_file" project="Bryzgalova_finish_work" xLocation="813" yLocation="69"/>
+        <class className="Report" modelMemberId="Report" project="Bryzgalova_finish_work" xLocation="1363" yLocation="122"/>
+        <class className="Window" modelMemberId="Window" project="Bryzgalova_finish_work" xLocation="529" yLocation="417"/>
+        <class className="Password" modelMemberId="Password" project="Bryzgalova_finish_work" xLocation="813" yLocation="145"/>
+        <class className="Main" modelMemberId="Main" project="Bryzgalova_finish_work" xLocation="188" yLocation="496"/>
+    </diagram>
+</ajsv>

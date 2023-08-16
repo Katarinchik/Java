@@ -1,0 +1,10 @@
+Alfa Romeo Racing Orlen;Alfa Romeo;C41;10;Ferrari; Кими Райкконен;Антонио Джовинацци;Conpetitor
+Scuderia AlphaTauri Honda;AlphaTauri;AT02;5;Honda; Пьер Гасли; Юки Цунода;Winer
+Alpine F1 Team;Alpine;A521;3;Renault E-Tech;Фернандо Алонсо; Эстебан Окон;Conpetitor
+Aston Martin Cognizant Formula One Team;Aston Martin;AMR21;2;Mercedes; Лэнс Стролл;Себастьян Феттель;Winer
+Scuderia Ferrari Mission Winnow;Ferrari;F21;1;Ferrari; Шарль Леклер; Карлос Сайнс-мл.;Winer
+Uralkali Haas F1 Team;Haas;VF-21;8;Ferrari; Никита Мазепин;Мик Шумахер;Conpetitor
+McLaren F1 Team;McLaren;MCL35M;3;Mercedes;Даниэль Риккардо;Ландо Норрис;Conpetitor
+Mercedes AMG Petronas Formula One Team;Mercedes;F1 W12;5;Mercedes;Льюис Хэмилтон;Валттери Боттас;Conpetitor
+Red Bull Racing;Red Bull;RB16B;1;Honda; Серхио Перес; Серхио Перес;Conpetitor
+Williams Racing;Williams;FW43B;2;Mercedes;Николас Латифи; Джордж Расселл;Winer

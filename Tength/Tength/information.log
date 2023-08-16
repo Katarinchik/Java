@@ -1,0 +1,6 @@
+19:57:04,770  INFO main Main:main:12 - Start program
+19:57:05,646  INFO Thread-2 Report:createHTML:57 - HTML create start
+19:57:05,648  INFO Thread-2 Report:createHTML:78 - HTML create finish
+19:57:05,648  INFO Thread-2 Report:createPDF:28 - PDF create start
+19:57:05,733  INFO main Main:main:15 - End program
+19:57:06,372  INFO Thread-2 Report:createPDF:49 - PDF create finish

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bookList>
+    <books Chassis="C41" Designer="Alfa Romeo" Driver_1=" Кими Райкконен" Driver_2="Антонио Джовинацци" Power_plant="Ferrari" Status="Conpetitor" Team="Alfa Romeo Racing Orlen" Track="10"/>
+    <books Chassis="AT02" Designer="AlphaTauri" Driver_1=" Пьер Гасли" Driver_2=" Юки Цунода" Power_plant="Honda" Status="Winer" Team="Scuderia AlphaTauri Honda" Track="5"/>
+    <books Chassis="A521" Designer="Alpine" Driver_1="Фернандо Алонсо" Driver_2=" Эстебан Окон" Power_plant="Renault E-Tech" Status="Conpetitor" Team="Alpine F1 Team" Track="3"/>
+    <books Chassis="AMR21" Designer="Aston Martin" Driver_1=" Лэнс Стролл" Driver_2="Себастьян Феттель" Power_plant="Mercedes" Status="Winer" Team="Aston Martin Cognizant Formula One Team" Track="2"/>
+    <books Chassis="F21" Designer="Ferrari" Driver_1=" Шарль Леклер" Driver_2=" Карлос Сайнс-мл." Power_plant="Ferrari" Status="Winer" Team="Scuderia Ferrari Mission Winnow" Track="1"/>
+    <books Chassis="VF-21" Designer="Haas" Driver_1=" Никита Мазепин" Driver_2="Мик Шумахер" Power_plant="Ferrari" Status="Conpetitor" Team="Uralkali Haas F1 Team" Track="8"/>
+    <books Chassis="MCL35M" Designer="McLaren" Driver_1="Даниэль Риккардо" Driver_2="Ландо Норрис" Power_plant="Mercedes" Status="Conpetitor" Team="McLaren F1 Team" Track="3"/>
+    <books Chassis="F1 W12" Designer="Mercedes" Driver_1="Льюис Хэмилтон" Driver_2="Валттери Боттас" Power_plant="Mercedes" Status="Conpetitor" Team="Mercedes AMG Petronas Formula One Team" Track="5"/>
+    <books Chassis="RB16B" Designer="Red Bull" Driver_1=" Серхио Перес" Driver_2=" Серхио Перес" Power_plant="Honda" Status="Conpetitor" Team="Red Bull Racing" Track="1"/>
+    <books Chassis="FW43B" Designer="Williams" Driver_1="Николас Латифи" Driver_2=" Джордж Расселл" Power_plant="Mercedes" Status="Winer" Team="Williams Racing" Track="2"/>
+</bookList>

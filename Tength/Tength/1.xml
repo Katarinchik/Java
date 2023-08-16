@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<RasingList>
+    <Rasing Chassis="C41" Designer="Alfa Romeo" Driver_1="Kimi Raikkonen" Driver_2="Antonio" Power_plant="Ferrari" Status="Conpetitor" Team="Alfa Romeo Racing Orlen" Track="10"/>
+    <Rasing Chassis="AT02" Designer="AlphaTauri" Driver_1="Pier Gasli" Driver_2=" Yuki Tsunoda" Power_plant="Honda" Status="Winer" Team="Scuderia AlphaTauri Honda" Track="5"/>
+    <Rasing Chassis="A521" Designer="Alpine" Driver_1="Fernando Alonso" Driver_2=" Esteban Ocon" Power_plant="Renault E-Tech" Status="Conpetitor" Team="Alpine F1 Team" Track="3"/>
+    <Rasing Chassis="AMR21" Designer="Aston Martin" Driver_1="Lance Stroll" Driver_2="Sebastian Vettel" Power_plant="Mercedes" Status="Winer" Team="Aston Martin Cognizant Formula One Team" Track="2"/>
+    <Rasing Chassis="F21" Designer="Ferrari" Driver_1="Charles Leclair" Driver_2="Carlos Sainz, Jr. " Power_plant="Ferrari" Status="Winer" Team="Scuderia Ferrari Mission Winnow" Track="1"/>
+    <Rasing Chassis="VF-21" Designer="Haas" Driver_1="Nikita Mazepin" Driver_2="Mick Schumacher" Power_plant="Ferrari" Status="Conpetitor" Team="Uralkali Haas F1 Team" Track="8"/>
+    <Rasing Chassis="MCL35M" Designer="McLaren" Driver_1="Daniel Ricciardo" Driver_2="Lando Norris" Power_plant="Mercedes" Status="Conpetitor" Team="McLaren F1 Team" Track="3"/>
+    <Rasing Chassis="F1 W12" Designer="Mercedes" Driver_1="Lewis Hamilton" Driver_2="Valtteri Bottas" Power_plant="Mercedes" Status="Conpetitor" Team="Mercedes AMG Petronas Formula One Team" Track="5"/>
+</RasingList>

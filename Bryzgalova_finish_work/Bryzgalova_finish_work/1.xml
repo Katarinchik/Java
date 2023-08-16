@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<driverList>
+    <driver Driver=" Роберт Кубица" ID="1" Team=" Alfa Romeo Racing Orlen"/>
+    <driver Driver="Татьяна Кальдерон" ID="2" Team=" Alfa Romeo Racing Orlen"/>
+    <driver Driver="Себастьен Буэми" ID="3" Team="Scuderia AlphaTauri Honda"/>
+    <driver Driver=" Юри Випс" ID="4" Team="Scuderia AlphaTauri Honda"/>
+    <driver Driver=" Сержиу Сетте Камара " ID="5" Team="Scuderia Ferrari Mission Winnow"/>
+    <driver Driver=" Паскаль Верляйн" ID="6" Team="Scuderia Ferrari Mission Winnow"/>
+    <driver Driver="Пьетро Фиттипальди" ID="7" Team="Haas F1 Team"/>
+    <driver Driver="Луи Делетраз" ID="8" Team="Haas F1 Team"/>
+    <driver Driver="Стоффель Вандорн" ID="9" Team="McLaren F1 Team"/>
+    <driver Driver="Эстебан Гутьеррес" ID="10" Team="McLaren F1 Team"/>
+    <driver Driver=" Стоффель Вандорн" ID="11" Team="Mercedes AMG Petronas Formula One Team"/>
+    <driver Driver=" Эстебан Гутьеррес" ID="12" Team="Mercedes AMG Petronas Formula One Team"/>
+    <driver Driver="Стоффель Вандорн" ID="13" Team="BWT Racing Point F1 Team"/>
+    <driver Driver="Эстебан Гутьеррес" ID="14" Team="BWT Racing Point F1 Team"/>
+    <driver Driver="Сержиу Сетте Камара " ID="15" Team="Aston Martin Red Bull Racing"/>
+    <driver Driver="Юри Випс" ID="16" Team="Aston Martin Red Bull Racing"/>
+</driverList>
